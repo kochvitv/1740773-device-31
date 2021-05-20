@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Виталий Кочнев](https://up.htmlacademy.ru/htmlcss/31/user/1740773).
-* Наставник: [Сергей Шрамко] (https://up.htmlacademy.ru/htmlcss/31/user/852139).
+* Наставник: [Сергей Шрамко](https://htmlacademy.ru/profile/id852139).
 
 ---
 
